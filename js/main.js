@@ -1,3 +1,5 @@
+document.documentElement.classList.add('js');
+
 const navbar = document.getElementById('navbar');
 const hamburger = document.getElementById('hamburger');
 const mobileMenu = document.getElementById('mobileMenu');
